@@ -15,7 +15,7 @@ The workflow reproduces the computational and experimental analysis pipeline, fr
 ### 1. [py-ProfileX_params.ipynb](py-ProfileX_params.ipynb)
 
 Fits growth parameters for individual auxotrophic strains from monoculture growth curves.
-The estimated parameters (`V_m`, `K_m`, `c`, `beta`, and `K_i`) are used as inputs for downstream community simulations.
+The estimated parameters (`V_m/K_m`, `c`, `beta`) are used as inputs for downstream community simulations.
 
 This notebook:
 
