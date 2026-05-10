@@ -1,5 +1,5 @@
 
-# ProfileX — Environmental Control of Auxotrophic Communities
+# Environmental Control of Auxotrophic Communities
 
 Scripts and data used to produce figures and simulations related to the article:  
 **Stabilizing Auxotrophic Consortia Through Dynamic Environmental Manipulations**  
